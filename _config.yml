@@ -1,0 +1,11 @@
+# Site settings
+title: Inês Ochoa
+tag_text: Inês Ochoa
+description: ...
+
+# Build settings
+markdown: kramdown
+#markdown: redcarpet
+exclude: ["README.md"]
+sass:
+  style: compressed
