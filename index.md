@@ -7,7 +7,7 @@ Postdoc at [Nevis Labs](https://www.nevis.columbia.edu/), Columbia University.
 
 ## Short Bio
 
-I am currently a postdoctoral research associate at Columbia University. I moved to New York in July of 2015, after completing my PhD at [University College London](http://www.hep.ucl.ac.uk/). Before moving to London, in April 2011, I had completed my undergraduate studies in Physics at [Universidade de Coimbra](http://fisica.uc.pt/ax/main.php), where I am originally from. 
+I am currently a postdoctoral research associate at Columbia University. I moved to New York in July of 2015, after completing my PhD at [University College London](http://www.hep.ucl.ac.uk/). Before moving to London in April 2011, I completed my undergraduate studies in Physics at [Universidade de Coimbra](http://fisica.uc.pt/ax/main.php), where I am originally from. 
 
 ## Physics
 
