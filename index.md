@@ -12,10 +12,10 @@ I am currently a postdoctoral research associate at Columbia University. I moved
 ## Physics
 
 ### Research highlights
-* Searches for new physics in diboson final states ([Latest public result](https://cds.cern.ch/record/2258132)){% comment %}
+* Searches for new physics in diboson final states ([VH(lep) paper](https://arxiv.org/abs/1607.05621) and [VH(had) latest public result](https://cds.cern.ch/record/2258132)){% comment %}
 * b-tagging
 {% endcomment %}
-* Jet substructure ([Boosted H(bb) paper](https://arxiv.org/abs/1506.04973))
+* Jet substructure ([Run 1 paper](https://arxiv.org/abs/1306.4945) and [Boosted H(bb) paper](https://arxiv.org/abs/1506.04973))
 * Higgs boson searches ([Run 1 VH(bb) paper](https://arxiv.org/abs/1409.6212))
 * Electronics upgrade of LAr calorimeter
 
@@ -26,7 +26,7 @@ I am currently a postdoctoral research associate at Columbia University. I moved
 
 ## Music
 
-* Double bass and electric bass player with four years of music conservatory education. Many more of jazz improvisation, theory lessons and regular live performances. 
+* Double bass and electric bass player. Four years of music conservatory and many more of jazz school with regular live performances. 
 
 * Short foray into portuguese pop/rock with [o rapaz estranho](https://www.youtube.com/playlist?list=PLBFEFEBC70AE5B69F).
 
