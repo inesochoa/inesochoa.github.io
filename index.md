@@ -3,26 +3,36 @@ layout: default
 ---
 
 Particle physicist working in the [ATLAS](https://atlas.cern/) experiment at [CERN](https://cern.ch/).
-Postdoc at [Nevis Labs](https://www.nevis.columbia.edu/), Columbia University.
+La Caixa Postdoctoral Fellow at [LIP](https://www.lip.pt/).
 
 ## Short Bio
 
-I am currently a postdoctoral research associate at Columbia University. I moved to New York in July of 2015, after completing my PhD at [University College London](http://www.hep.ucl.ac.uk/). Before moving to London in April 2011, I completed my undergraduate studies in Physics at [Universidade de Coimbra](http://fisica.uc.pt/ax/main.php), where I am originally from. 
+I joined LIP Lisbon in July 2020 as a [La Caixa Postdoctoral Fellow](https://fundacionlacaixa.org/en/la-caixa-foundation-postdoctoral-junior-leader-fellowships-incoming).
+
+In 2010, I completed my undergraduate studies in Physics at [Universidade de Coimbra](http://fisica.uc.pt/ax/main.php), where I am originally from. I moved to London in April 2011, to pursue a PhD at [University College London](http://www.hep.ucl.ac.uk/). I moved to New York in July of 2015, to work as a postdoctoral research associate at the [Nevis Laboratories](https://www.nevis.columbia.edu/), Columbia University. 
+
 
 ## Physics
 
-### Research highlights
-* Searches for new physics in diboson final states ([VH(lep) paper](https://arxiv.org/abs/1607.05621) and [VH(had) latest public result](https://cds.cern.ch/record/2258132)){% comment %}
-* b-tagging
-{% endcomment %}
-* Jet substructure ([Run 1 paper](https://arxiv.org/abs/1306.4945) and [Boosted H(bb) paper](https://arxiv.org/abs/1506.04973))
-* Higgs boson searches ([Run 1 VH(bb) paper](https://arxiv.org/abs/1409.6212))
-* Electronics upgrade of LAr calorimeter
+### Research Interests
+* Searches for new heavy particles with the ATLAS experiment at the LHC.
+* Higgs and gauge bosons processes as a portal to new physics.
+* Reconstruction and identification techniques for boosted Higgs bosons decaying to a pair of b-quarks.
+* Anomaly detection for model-independent new physics searches at colliders.
+
+[comment]: #* Jet substructure ([Run 1 paper](https://arxiv.org/abs/1306.4945) and [Boosted H(bb) paper](https://arxiv.org/abs/1506.04973))
+[comment]: #* Higgs boson searches ([Run 1 VH(bb) paper](https://arxiv.org/abs/1409.6212))
+[comment]: #* Electronics upgrade of LAr calorimeter
+
+### Selected publications and notes
+{% include_relative publist.md %}
 
 ### Teaching and Outreach
 
-* Co-instructor at the [Science Honours Program](http://www.columbia.edu/cu/shp/calendar.html) Particle Physics course.
+* [Entrevista](https://observador.pt/2021/02/01/ines-a-procura-da-nova-fisica/) com o Observador sobre projecto La Caixa.
+* Instructor at the [Science Honours Program](http://www.columbia.edu/cu/shp/calendar.html) Particle Physics course.
 * Demonstrator at several ["Hands on Particle Physics"](http://physicsmasterclasses.org/) masterclasses in Coimbra and London.
+
 
 ## Music
 
@@ -33,4 +43,4 @@ I am currently a postdoctoral research associate at Columbia University. I moved
 ![o rapaz estranho]({{ site.url }}/assets/bass.jpg)
 
 ## Contact
-[GitHub](https://github.com/miochoa)/[G+](https://plus.google.com/u/0/111670421592989935716)
+[iNSPIRE](https://inspirehep.net/authors/1079140)/[Linkedin](https://www.linkedin.com/in/inesochoa/)/[GitHub](https://github.com/miochoa)
