@@ -47,4 +47,4 @@ In 2010, I completed my undergraduate studies in Physics at [Universidade de Coi
 [iNSPIRE](https://inspirehep.net/authors/1079140)/[ORCID](https://orcid.org/0000-0001-6156-1790)/[Linkedin](https://www.linkedin.com/in/inesochoa/)/[GitHub](https://github.com/inesochoa)
 
 
-Last modified: February 12, 2022
+Last modified: July, 2022
