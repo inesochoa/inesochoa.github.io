@@ -17,14 +17,14 @@ In 2010, I completed my undergraduate studies in Physics at [Universidade de Coi
 ### Research Interests
 * Searching for physics beyond the Standard Model at the Large Hadron Collider.
 * Higgs and gauge bosons as portals to new physics.
-* Reconstruction and identification techniques for boosted Higgs bosons decaying to pairs of b-quarks.
+* Machine learning for reconstructing and identifying boosted Higgs bosons decaying to pairs of b-quarks.
 * Anomaly detection for model-agnostic searches for new physics.
 
 [comment]: #* Jet substructure ([Run 1 paper](https://arxiv.org/abs/1306.4945) and [Boosted H(bb) paper](https://arxiv.org/abs/1506.04973))
 [comment]: #* Higgs boson searches ([Run 1 VH(bb) paper](https://arxiv.org/abs/1409.6212))
 [comment]: #* Electronics upgrade of LAr calorimeter
 
-### Selected publications and other public documents
+### Selected publications or public documents
 {% include_relative publist.md %}
 
 ### Teaching and Outreach
@@ -33,6 +33,7 @@ In 2010, I completed my undergraduate studies in Physics at [Universidade de Coi
 * Instructor at the [Science Honours Program](http://www.columbia.edu/cu/shp/calendar.html) Particle Physics course.
 * Instructor at several ["Hands on Particle Physics"](http://physicsmasterclasses.org/) masterclasses in Coimbra and London.
 
+![lhc]({{ site.url }}/assets/lhc.jpg)
 
 ## Music
 
@@ -43,7 +44,7 @@ In 2010, I completed my undergraduate studies in Physics at [Universidade de Coi
 ![o rapaz estranho]({{ site.url }}/assets/bass.jpg)
 
 ## Contact
-[iNSPIRE](https://inspirehep.net/authors/1079140)/[Linkedin](https://www.linkedin.com/in/inesochoa/)/[GitHub](https://github.com/inesochoa)
+[iNSPIRE](https://inspirehep.net/authors/1079140)/[ORCID](https://orcid.org/0000-0001-6156-1790)/[Linkedin](https://www.linkedin.com/in/inesochoa/)/[GitHub](https://github.com/inesochoa)
 
 
 Last modified: February 12, 2022
