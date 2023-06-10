@@ -1,6 +1,6 @@
 {:.paper}
-<span>High-dimensional Anomaly Detection with Radiative Return in $$e^{+}e^{-}$$ Collisions</span>{:.papertitle}
-<span>Gonski, J. and Lay, J. and Nachman, B. and Ochoa, I.</span>{:.authors}
+<span>High-dimensional Anomaly Detection with Radiative Return in $$e^{+}e^{-}$$ Collisions</span>{:.papertitle}  
+<span>Gonski, J. and Lay, J. and Nachman, B. and Ochoa, I.</span>{:.authors}  
 <span>_JHEP_ 04 (2022) 156</span>{:.journal}
 <span>**DOI:** [10.1007/JHEP04(2022)156](https://doi.org/10.1007/JHEP04%282022%29156)</span>{:.doi}
 
