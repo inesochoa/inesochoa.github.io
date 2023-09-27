@@ -2,22 +2,19 @@
 layout: default
 ---
 
-Particle physicist working in the [ATLAS](https://atlas.cern/) experiment at [CERN](https://cern.ch/).
-La Caixa Junior Leader Postdoctoral Fellow at [LIP](https://www.lip.pt/).
+I am a particle physicist working in the [ATLAS](https://atlas.cern/) experiment at [CERN's](https://cern.ch/) Large Hadron Collider.
 
 ## Short Bio
 
-I joined LIP Lisbon in July 2020 as a [La Caixa Junior Leader Postdoctoral Fellow](https://fundacionlacaixa.org/en/la-caixa-foundation-postdoctoral-junior-leader-fellowships-incoming).
-
-In 2010, I completed my undergraduate studies in Physics at [Universidade de Coimbra](http://fisica.uc.pt/ax/main.php), where I am originally from. I moved to London in April 2011, to pursue a PhD at [University College London](http://www.hep.ucl.ac.uk/). I moved to New York in July of 2015, to work as a postdoctoral research associate at the [Nevis Laboratories](https://www.nevis.columbia.edu/), Columbia University. 
+In 2010, I completed my undergraduate studies in Physics at [Universidade de Coimbra](http://fisica.uc.pt/ax/main.php), where I am originally from. I moved to London in April 2011 to pursue a PhD at [University College London](http://www.hep.ucl.ac.uk/). I moved to New York City in July of 2015 to work as a postdoctoral research associate at the [Nevis Laboratories](https://www.nevis.columbia.edu/) at Columbia University.  Since July 2020 I have been working at [LIP](https://www.lip.pt/) in Portugal as a [La Caixa Junior Leader Postdoctoral Fellow](https://fundacionlacaixa.org/en/la-caixa-foundation-postdoctoral-junior-leader-fellowships-incoming).
 
 
 ## Physics
 
 ### Research Interests
 * Searching for physics beyond the Standard Model at the Large Hadron Collider.
-* Higgs and gauge bosons as portals to new physics.
-* Machine learning for reconstructing and identifying boosted Higgs bosons decaying to pairs of b-quarks.
+* Differential programming applications in High Energy Physics.
+* Machine learning for identifying b-jets and Higgs boson decays.
 * Anomaly detection for model-agnostic searches for new physics.
 
 [comment]: #* Jet substructure ([Run 1 paper](https://arxiv.org/abs/1306.4945) and [Boosted H(bb) paper](https://arxiv.org/abs/1506.04973))
@@ -47,4 +44,4 @@ In 2010, I completed my undergraduate studies in Physics at [Universidade de Coi
 [iNSPIRE](https://inspirehep.net/authors/1079140)/[ORCID](https://orcid.org/0000-0001-6156-1790)/[Linkedin](https://www.linkedin.com/in/inesochoa/)/[GitHub](https://github.com/inesochoa)
 
 
-Last modified: July, 2022
+Last modified: September, 2023

@@ -1,7 +1,19 @@
 {:.paper}
+<span>Transformer Neural Networks for Identifying Boosted Higgs Bosons decaying into
+$$b\bar{b}$$ and $$c\bar{c}$$ in ATLAS
+in ATLAS</span>{:.papertitle}  
+<span>ATLAS Collaboration</span>{:.authors}  
+<span>_Tech. Report_, no. [ATL-PHYS-PUB-2023-021](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PUBNOTES/ATL-PHYS-PUB-2023-021/), 2023</span>{:.journal} 
+
+{:.paper}
+<span>Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets</span>{:.papertitle}  
+<span>Peixoto, M. and Castro, N. and Romão, M. and Oliveira, M. G. and Ochoa, I. </span>{:.authors}  
+<span>_Submitted_</span>{:.journal}
+
+{:.paper}
 <span>High-dimensional Anomaly Detection with Radiative Return in $$e^{+}e^{-}$$ Collisions</span>{:.papertitle}  
 <span>Gonski, J. and Lay, J. and Nachman, B. and Ochoa, I.</span>{:.authors}  
-<span>_JHEP_ 04 (2022) 156</span>{:.journal}
+<span>_JHEP_ 04 (2022) 156 </span>{:.journal}
 <span>**DOI:** [10.1007/JHEP04(2022)156](https://doi.org/10.1007/JHEP04%282022%29156)</span>{:.doi}
 
 {:.paper}
