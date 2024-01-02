@@ -2,16 +2,14 @@
 layout: default
 ---
 
-I am a particle physicist working in the [ATLAS](https://atlas.cern/) experiment at [CERN's](https://cern.ch/) Large Hadron Collider.
+I am an experimental particle physicist at [LIP](https://www.lip.pt/) and I am based in Lisbon, Portugal. I am a member of the [ATLAS](https://atlas.cern/) experiment at [CERN's](https://cern.ch/) Large Hadron Collider.
 
 ## Short Bio
 
-In 2010, I completed my undergraduate studies in Physics at [Universidade de Coimbra](http://fisica.uc.pt/ax/main.php), where I am originally from. I moved to London in April 2011 to pursue a PhD at [University College London](http://www.hep.ucl.ac.uk/). I moved to New York City in July of 2015 to work as a postdoctoral research associate at the [Nevis Laboratories](https://www.nevis.columbia.edu/) at Columbia University.  Since July 2020 I have been working at [LIP](https://www.lip.pt/) in Portugal as a [La Caixa Junior Leader Postdoctoral Fellow](https://fundacionlacaixa.org/en/la-caixa-foundation-postdoctoral-junior-leader-fellowships-incoming).
+In 2010, I completed my undergraduate studies in Physics at [Universidade de Coimbra](http://fisica.uc.pt/ax/main.php), where I am originally from. I moved to London in April 2011 to pursue a PhD at [University College London](http://www.hep.ucl.ac.uk/). I moved to New York City in July of 2015 to work as a postdoctoral research associate at the [Nevis Laboratories](https://www.nevis.columbia.edu/) at Columbia University. In July 2020 I was awarded a [La Caixa Junior Leader Postdoctoral Fellowship](https://fundacionlacaixa.org/en/la-caixa-foundation-postdoctoral-junior-leader-fellowships-incoming) and joined LIP.
 
 
-## Physics
-
-### Research Interests
+## Research Interests
 * Searching for physics beyond the Standard Model at the Large Hadron Collider.
 * Differential programming applications in High Energy Physics.
 * Machine learning for identifying b-jets and Higgs boson decays.
@@ -21,13 +19,13 @@ In 2010, I completed my undergraduate studies in Physics at [Universidade de Coi
 [comment]: #* Higgs boson searches ([Run 1 VH(bb) paper](https://arxiv.org/abs/1409.6212))
 [comment]: #* Electronics upgrade of LAr calorimeter
 
-### Selected publications or public documents
+## Selected Works
 {% include_relative publist.md %}
 
-### Teaching and Outreach
+## Teaching and Outreach
 
 * [Entrevista](https://observador.pt/2021/02/01/ines-a-procura-da-nova-fisica/) com o Observador sobre projecto La Caixa.
-* Instructor at the [Science Honours Program](http://www.columbia.edu/cu/shp/calendar.html) Particle Physics course.
+* Instructor of Particle Physics course at Columbia University's [Science Honours Program](http://www.columbia.edu/cu/shp/calendar.html).
 * Instructor at several ["Hands on Particle Physics"](http://physicsmasterclasses.org/) masterclasses in Coimbra and London.
 
 ![lhc]({{ site.url }}/assets/lhc.jpg)
@@ -44,4 +42,4 @@ In 2010, I completed my undergraduate studies in Physics at [Universidade de Coi
 [iNSPIRE](https://inspirehep.net/authors/1079140)/[ORCID](https://orcid.org/0000-0001-6156-1790)/[Linkedin](https://www.linkedin.com/in/inesochoa/)/[GitHub](https://github.com/inesochoa)
 
 
-Last modified: September, 2023
+Last modified: January, 2024

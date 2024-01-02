@@ -1,4 +1,9 @@
 {:.paper}
+<span>Differentiable Vertex Fitting for Jet Flavour Tagging</span>{:.papertitle}  
+<span>Rachel E. C. Smith, Inês Ochoa, Rúben Inácio, Jonathan Shoemaker, Michael Kagan</span>{:.authors}  
+<span>_Pre-print_: [arXiv:2310.12804](https://arxiv.org/abs/2310.12804)</span>{:.journal}
+
+{:.paper}
 <span>Transformer Neural Networks for Identifying Boosted Higgs Bosons decaying into
 $$b\bar{b}$$ and $$c\bar{c}$$ in ATLAS
 in ATLAS</span>{:.papertitle}  
@@ -8,12 +13,13 @@ in ATLAS</span>{:.papertitle}
 {:.paper}
 <span>Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets</span>{:.papertitle}  
 <span>Peixoto, M. and Castro, N. and Romão, M. and Oliveira, M. G. and Ochoa, I. </span>{:.authors}  
-<span>_Submitted_</span>{:.journal}
+<span>_Front. Artif. Intell., 6:1268852_, 2023</span>{:.journal}  
+<span>**DOI:** [10.3389/frai.2023.1268852](https://doi.org/10.3389/frai.2023.1268852)</span>{:.doi}
 
 {:.paper}
 <span>High-dimensional Anomaly Detection with Radiative Return in $$e^{+}e^{-}$$ Collisions</span>{:.papertitle}  
 <span>Gonski, J. and Lay, J. and Nachman, B. and Ochoa, I.</span>{:.authors}  
-<span>_JHEP_ 04 (2022) 156 </span>{:.journal}
+<span>_JHEP_ 04 (2022) 156</span>{:.journal}  
 <span>**DOI:** [10.1007/JHEP04(2022)156](https://doi.org/10.1007/JHEP04%282022%29156)</span>{:.doi}
 
 {:.paper}
