@@ -4,9 +4,14 @@
 <span>_Pre-print_: [arXiv:2310.12804](https://arxiv.org/abs/2310.12804)</span>{:.journal}
 
 {:.paper}
+<span> Anomaly detection search for new resonances decaying into a Higgs boson and a generic new particle X in hadronic final states using √s=13 TeV pp collisions with the ATLAS detector</span>{:.papertitle}  
+<span>ATLAS Collaboration</span>{:.authors}  
+<span>_Phys. Rev. D_, vol. 108, pp. 052009, 2023</span>{:.journal}  
+<span>**DOI:** [10.1103/PhysRevD.108.052009](https://doi.org/10.1103/PhysRevD.108.052009)</span>{:.doi}  
+
+{:.paper}
 <span>Transformer Neural Networks for Identifying Boosted Higgs Bosons decaying into
-$$b\bar{b}$$ and $$c\bar{c}$$ in ATLAS
-in ATLAS</span>{:.papertitle}  
+$$b\bar{b}$$ and $$c\bar{c}$$ in ATLAS</span>{:.papertitle}  
 <span>ATLAS Collaboration</span>{:.authors}  
 <span>_Tech. Report_, no. [ATL-PHYS-PUB-2023-021](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PUBNOTES/ATL-PHYS-PUB-2023-021/), 2023</span>{:.journal} 
 
@@ -61,7 +66,7 @@ into bosonic and leptonic final states using
 36 fb$$^-1$$ of proton-proton collision data at
 $$\sqrt{s} = 13$$ TeV with the ATLAS detector</span>{:.papertitle}  
 <span>ATLAS Collaboration</span>{:.authors}  
-<span>_Phys. Rev._, vol. D98, no. 5, pp. 052008, 2018</span>{:.journal}  
+<span>_Phys. Rev. D_, vol. D98, no. 5, pp. 052008, 2018</span>{:.journal}  
 <span>**DOI:** [10.1103/PhysRevD.98.052008](https://dx.doi.org/10.1103/PhysRevD.98.052008)</span>{:.doi}  
 
 {:.paper}
