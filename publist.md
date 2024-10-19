@@ -1,7 +1,20 @@
+{:.dataset}
+<span>Dataset for flavour tagging R&D</span>{:.papertitle}  
+<span>Ochoa, I. and Smith, R. and Pereira Sánchez, L. and Kagan, M.</span>{:.authors}  
+<span>_Zenodo_, 2024</span>{:.journal}  
+<span>**DOI:** [10.5281/zenodo.13350327](https://doi.org/10.5281/zenodo.13350327)</span>{:.doi}
+
 {:.paper}
 <span>Differentiable Vertex Fitting for Jet Flavour Tagging</span>{:.papertitle}  
-<span>Rachel E. C. Smith, Inês Ochoa, Rúben Inácio, Jonathan Shoemaker, Michael Kagan</span>{:.authors}  
-<span>_Pre-print_: [arXiv:2310.12804](https://arxiv.org/abs/2310.12804)</span>{:.journal}
+<span>Smith, R. and Ochoa, I. and Inácio, R. and Shoemaker, J. and Kagan, M.</span>{:.authors}  
+<span>_Phys. Rev. D_, vol. 110, pp. 052010, 2024</span>{:.journal}  
+<span>**DOI:** [10.1103/PhysRevD.110.052010](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.052010)</span>{:.doi}
+
+{:.paper}
+<span>Combination of searches for heavy spin-1 resonances using 139 fb$$^−1$$ of proton-proton collision data at $$\sqrt{s} = 13$$ TeV with the ATLAS detector</span>{:.papertitle}  
+<span>ATLAS Collaboration</span>{:.authors}  
+<span>_JHEP_ 04 (2024) 118</span>{:.journal}  
+<span>**DOI:** [10.1007/JHEP04(2024)118](https://link.springer.com/article/10.1007/JHEP04(2024)118)</span>{:.doi}  
 
 {:.paper}
 <span> Anomaly detection search for new resonances decaying into a Higgs boson and a generic new particle X in hadronic final states using √s=13 TeV pp collisions with the ATLAS detector</span>{:.papertitle}  
