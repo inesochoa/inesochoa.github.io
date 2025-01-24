@@ -6,14 +6,16 @@ I am an experimental particle physicist at [LIP](https://www.lip.pt/) and I am b
 
 ## Short Bio
 
-In 2010, I completed my undergraduate studies in Physics at [Universidade de Coimbra](http://fisica.uc.pt/ax/main.php), where I am originally from. I moved to London in April 2011 to pursue a PhD at [University College London](http://www.hep.ucl.ac.uk/). I moved to New York City in July of 2015 to work as a postdoctoral research associate at the [Nevis Laboratories](https://www.nevis.columbia.edu/) at Columbia University. In July 2020 I was awarded a [La Caixa Junior Leader Postdoctoral Fellowship](https://fundacionlacaixa.org/en/la-caixa-foundation-postdoctoral-junior-leader-fellowships-incoming) and joined LIP.
+In 2010, I completed my undergraduate studies in Physics at [Universidade de Coimbra](http://fisica.uc.pt/ax/main.php), where I am originally from. I moved to London in April 2011 to pursue a PhD at [University College London](http://www.hep.ucl.ac.uk/). I moved to New York City in July of 2015 to work as a postdoctoral research associate at the [Nevis Laboratories](https://www.nevis.columbia.edu/) at Columbia University. In July 2020 I was awarded a [La Caixa Junior Leader Postdoctoral Fellowship](https://fundacionlacaixa.org/en/la-caixa-foundation-postdoctoral-junior-leader-fellowships-incoming) and joined LIP. 
 
 
-## Research Interests
+## Research Interest
 * Searching for physics beyond the Standard Model at the Large Hadron Collider.
-* Differential programming applications in High Energy Physics.
-* Machine learning for identifying b-jets and Higgs boson decays.
+* CP-violation in Higgs boson interactions. 
+* Machine learning methods for b-jet and Higgs boson tagging.
 * Anomaly detection for model-agnostic searches for new physics.
+* Differential programming applications in High Energy Physics.
+
 
 [comment]: #* Jet substructure ([Run 1 paper](https://arxiv.org/abs/1306.4945) and [Boosted H(bb) paper](https://arxiv.org/abs/1506.04973))
 [comment]: #* Higgs boson searches ([Run 1 VH(bb) paper](https://arxiv.org/abs/1409.6212))
@@ -42,4 +44,4 @@ In 2010, I completed my undergraduate studies in Physics at [Universidade de Coi
 [iNSPIRE](https://inspirehep.net/authors/1079140)/[ORCID](https://orcid.org/0000-0001-6156-1790)/[Linkedin](https://www.linkedin.com/in/inesochoa/)/[GitHub](https://github.com/inesochoa)
 
 
-Last modified: January, 2024
+Last modified: December, 2024
